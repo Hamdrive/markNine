@@ -6,120 +6,125 @@ var musicGenres = {
     {
       "name" : "Numb",
       "artist": "Linkin Park",
-      "coverArt" : "https://img.discogs.com/bsKHrnjVYg5YTWj71pRW1E1XYvM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2179514-1268308869.jpeg.jpg"
+      "coverArt" : "https://img.discogs.com/bsKHrnjVYg5YTWj71pRW1E1XYvM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2179514-1268308869.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=kXYiU_JCYtU"
     },
     {
       "name" : "Papercut",
       "artist": "Linkin Park",
-      "coverArt" : "https://img.discogs.com/dDSlb0ar-Co7LAB6R9ybAueK708=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-624704-1536520187-9613.jpeg.jpg"
+      "coverArt" : "https://img.discogs.com/dDSlb0ar-Co7LAB6R9ybAueK708=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-624704-1536520187-9613.jpeg.jpg",
+      "URL": "https://www.youtube.com/watch?v=vjVkXlxsO8Q"
     },
     {
       "name" : "OHNE DICH",
       "artist": "Rammstein",
-      "coverArt" : "https://img.discogs.com/Y7HQ2H8fdUm-_qIW5DbIt45qDAQ=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467115-1407161735-2435.jpeg.jpg"
+      "coverArt" : "https://img.discogs.com/Y7HQ2H8fdUm-_qIW5DbIt45qDAQ=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467115-1407161735-2435.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=LIPc1cfS-oQ"
     },
     {
       "name" : "Sonne",
       "artist": "Rammstein",
-      "coverArt" : "https://img.discogs.com/BODJdWoFDk-Um0MecDnUD6WaojQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9494383-1482868964-5038.png.jpg"
+      "coverArt" : "https://img.discogs.com/BODJdWoFDk-Um0MecDnUD6WaojQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9494383-1482868964-5038.png.jpg",
+      "URL" : "https://www.youtube.com/watch?v=StZcUAPRRac"
     },
     {
       "name" : "Heart-Shaped Box",
       "artist": "Nirvana",
-      "coverArt" : "https://img.discogs.com/uLzACPQh_azzVcIGQD7H8sDTIgY=/fit-in/599x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11742680-1521616478-3437.jpeg.jpg"
+      "coverArt" : "https://img.discogs.com/uLzACPQh_azzVcIGQD7H8sDTIgY=/fit-in/599x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11742680-1521616478-3437.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=92fK3K8nagk"
     }],
   Rap : [
     {
       "name" : "Venom",
       "artist": "Eminem",
-      "year" : "",
-      "playbacks" : ""
+      "coverArt" : "https://img.discogs.com/54hPRsThaq0irOvpUOoX6P5-bUQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12491176-1536405001-7183.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=8CdcCD5V-d8"
     },
     {
       "name" : "Real Friends",
       "artist": "Kanye West",
-      "year" : "",
-      "playbacks" : ""
+      "coverArt" : "https://img.discogs.com/pY0q1lhGC4CP-N561WvlYU5Arhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8115775-1455442036-8867.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=fWD9GF-Ogf4"
     },
     {
-      "name" : "In Too Deep",
+      "name" : "The Monster",
       "artist": "Eminem",
-      "year" : "",
-      "playbacks" : ""
+      "coverArt" : "https://img.discogs.com/uwDgfKLjhv8O_Yitrdb_4wtgkZI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5069131-1521292931-6165.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=EHkozMIXZ8w"
     },
     {
       "name" : "Rap God",
       "artist": "Eminem",
-      "year" : "",
-      "playbacks" : ""
+      "coverArt" : "https://img.discogs.com/PTVGXeUlUjUsHZf1hD9lLNTEINI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5003378-1584462714-4009.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=XbGs_qK2PQA"
     },
     {
       "name" : "Still D.R.E",
       "artist": "Dr. Dre",
-      "year" : "",
-      "playbacks" : ""
+      "coverArt" : "https://img.discogs.com/mKfTEI-06KUFB0906Uy8fszZO3I=/fit-in/581x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-350437-1480775019-2508.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=_CL6n0FJZpk"
     }],
   HipHop : [
     {
-      "name" : "",
-      "artist": "",
-      "year" : "",
-      "playbacks" : ""
+      "name" : "Sunflower",
+      "artist": "Post Malone",
+      "coverArt" : "https://img.discogs.com/6Sdmr9w8v8kxfIHXF6-OIR2sID0=/fit-in/437x431/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15563131-1593685437-9666.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=ApXoWvfEYVU"
     },
     {
-      "name" : "",
-      "artist": "",
-      "year" : "",
-      "playbacks" : ""
+      "name" : "Pump It",
+      "artist": "Black Eyed Peas",
+      "coverArt" : "https://img.discogs.com/jSxKcMW83YRhpSw1e0Hn2c23lTM=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1796917-1243941031.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=ZaI2IlHwmgQ"
     },
     {
-      "name" : "",
-      "artist": "",
-      "year" : "",
-      "playbacks" : ""
+      "name" : "Blinding Lights",
+      "artist": "The Weeknd",
+      "coverArt" : "https://img.discogs.com/zChGY8v4kgW7F5h2eZ8aevw_VlM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14944477-1587467863-2642.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=4NRXx6U8ABQ"
     },
     {
-      "name" : "",
-      "artist": "",
-      "year" : "",
-      "playbacks" : ""
+      "name" : "God's Plan",
+      "artist": "Drake",
+      "coverArt" : "https://img.discogs.com/i-3zFLbT4-s6Dm_0Fs5zg3nmQ4w=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12252821-1535317927-2134.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=xpVfcZ0ZcFM"
     },
     {
-      "name" : "",
-      "artist": "",
-      "year" : "",
-      "playbacks" : ""
+      "name" : "Mirrors",
+      "artist": "Justin Timberlake",
+      "coverArt" : "https://img.discogs.com/d3KKDrE1KasdgHJOFbQyMxRRAhM=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4341516-1362259089-5369.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=uuZE_IRwLNI"
     }],
   Legendaries : [
     {
-      "name" : "",
-      "artist": "",
-      "year" : "",
-      "playbacks" : ""
+      "name" : "Sugar",
+      "artist": "Robin Schulz",
+      "coverArt" : "https://img.discogs.com/0t9yEx1HOiAumFQQ41SoPVxKyjw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7517657-1443123242-6499.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=bvC_0foemLY"
     },
     {
-      "name" : "",
-      "artist": "",
-      "year" : "",
-      "playbacks" : ""
+      "name" : "Broken Dreams",
+      "artist": "Green Day",
+      "coverArt" : "https://img.discogs.com/47WeYS9ETqBI40Iz0ckpRMQOHDI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11079432-1522174455-6945.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=Soa3gO7tL-c"
     },
     {
-      "name" : "",
-      "artist": "",
-      "year" : "",
-      "playbacks" : ""
+      "name" : "Save The World",
+      "artist": "Swedish House Mafia",
+      "coverArt" : "https://img.discogs.com/jFzV5qeBECwZxGIl9ViajYxxKHk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2894741-1306090469.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=BXpdmKELE1k"
     },
     {
-      "name" : "",
-      "artist": "",
-      "year" : "",
-      "playbacks" : ""
+      "name" : "Sweater Weather",
+      "artist": "The Neighbourhood",
+      "coverArt" : "https://img.discogs.com/kKbX104hQwu7FKEmQ3A2mK6CDaU=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4536643-1367692270-3985.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=GCdwKhTtNNw"
     },
     {
-      "name" : "",
-      "artist": "",
-      "year" : "",
-      "playbacks" : ""
+      "name" : "Love Me Again",
+      "artist": "John Newman",
+      "coverArt" : "https://img.discogs.com/rouShhgQjlxRIbXekxMhL8Nqd_M=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4868244-1400780764-8389.jpeg.jpg",
+      "URL" : "https://www.youtube.com/watch?v=CfihYWRWRTQ"
     }],
 };
 
@@ -149,11 +154,13 @@ function App() {
       </div>
       <div className="music-icons">
         {musicGenres[currentGenre].map( (song, index) =>
-          <div key={index} className="song-div">
-            <div className="song-cover"><img className="song-image" src={song.coverArt} alt="cover" /></div>
-            <div className="song-name"><p>{song.name}</p></div>
-            <div className="song-artist"><p>{song.artist}</p></div>
-            <div className="song-year"><p>{song.year}</p></div>
+          <div key={index} >
+            <a href={song.URL} className="song-div" style={{textDecoration: "none"}}>
+              <div className="song-cover"><img className="song-image" src={song.coverArt} alt="cover" /></div>
+              <div className="song-name"><p>{song.name}</p></div>
+              <div className="song-artist"><p>{song.artist}</p></div>
+              <div className="song-year"><p>{song.year}</p></div>
+            </a>
           </div>
         )}
       </div>
