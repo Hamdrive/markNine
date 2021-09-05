@@ -1,38 +1,101 @@
-.App {
-  text-align: center;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.title{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-bottom: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.main-title{
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.sub-title{
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.btn-row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-genre {
+  border-radius: 10px;
+  color: #000000;
+  font-size: 20px;
+  font-weight: bold;
+  background: #2427f5;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border: 2px solid #000000;
+  margin: 0 10px;
+}
+
+.btn-genre:hover {
+  background: #090df5;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.music-icons{
+  width: 1250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.song-div{
+  width: 300px;
+  height: 300px;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  align-items: center;
+  margin: 0 10px;
+  border: 2px solid black;
+  border-radius: 15px;
+  cursor: pointer;
+  font-size: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  line-height: 1.5;
+}
+
+.song-div:hover{
+  background-color: #2427f5;
   color: white;
+  transition: 0.15s;
 }
 
-.App-link {
-  color: #61dafb;
+.song-cover{
+  margin-bottom: 10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.song-image{
+  width: 175px;
+  height: 175px;
+}
+
+.song-name{
+  font-size: 25px;
+  font-weight: 900;
 }
