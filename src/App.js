@@ -175,7 +175,7 @@ function App() {
       <div className="music-icons">
         {musicGenres[currentGenre].map( (song, index) =>
           <div key={index} >
-            <a href={song.URL} className="song-div" style={{textDecoration: "none"}}>
+            <a href={song.URL} rel="noreferrer" target="_blank" className="song-div" style={{textDecoration: "none"}}>
               <div className="song-cover"><img className="song-image" src={song.coverArt} alt="cover" /></div>
               <div className="song-name"><p>{song.name}</p></div>
               <div className="song-artist"><p>{song.artist}</p></div>
